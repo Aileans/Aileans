@@ -1,4 +1,4 @@
-### Olá! Eu sou o Aileans 👋
+### Olá! Eu sou o Alan 👋
 
 - 🔭 Hoje sou estudante do ensino médio
 - 🌱 Estudando: Python
